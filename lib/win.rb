@@ -1,0 +1,26 @@
+class Win
+  def self.you_win
+    puts "                            .---'::'        `---."
+    puts "                            (::::::'              )"
+    puts "                            |`-----._______.-----'|"
+    puts "                            |              :::::::|"
+    puts "                           .|     VOCÊ      ::::::!-."
+    puts "                           K|    ACERTOU!   :::::/|/"
+    puts "                            |               ::::::|"
+    puts "                            | ESTE É SEU PRẼMIO:::|"
+    puts "                            |    PARABÉNS!    ::::|"
+    puts "                            |               ::::::|"
+    puts "                            |              .::::::|"
+    puts "                            J              :::::::F"
+    puts "                             (            :::::::/"
+    puts "                              `.        .:::::::'"
+    puts "                                `-._  .::::::-'"
+    puts "                                    |  '''|'"
+    puts "                                    |  :::|"
+    puts "                                    |   ::|"
+    puts "                                   /     ::) "
+    puts "                              __.-'      :::`-.__"
+    puts "                             (_           ::::::_)"
+    puts "                               `'''---------''''"
+  end
+end
